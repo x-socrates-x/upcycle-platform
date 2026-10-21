@@ -76,7 +76,3 @@ npm run dev               # http://localhost:5173
 ```
 
 Create users through `POST /api/v1/auth/register` or the web client. The passwords in `sql/seed.sql` are placeholders, so seeded users can't log in.
-
-## Team
-
-Socrates Viegas, Kwaku Koduah, Aadam Wasim, Sawmiya Ravindra Kumar and Nabiil Ismail.
